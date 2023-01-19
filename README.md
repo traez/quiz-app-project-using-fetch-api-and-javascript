@@ -28,8 +28,8 @@ This is a solution to the [Quiz App Project suggestion using Fetch API and Javas
 
 ### Links
 
-- Solution URL: [https://github.com/traez/rock-paper-scissors-jsgame-theodinproject](https://github.com/traez/rock-paper-scissors-jsgame-theodinproject)
-- Live Site URL: [https://traez.github.io/rock-paper-scissors-jsgame-theodinproject/](https://traez.github.io/rock-paper-scissors-jsgame-theodinproject/)
+- Solution URL: [https://github.com/traez/quiz-app-project-using-fetch-api-and-javascript](https://github.com/traez/quiz-app-project-using-fetch-api-and-javascript)
+- Live Site URL: [https://traez.github.io/quiz-app-project-using-fetch-api-and-javascript/](https://traez.github.io/quiz-app-project-using-fetch-api-and-javascript/)
 
 ## My process
 
