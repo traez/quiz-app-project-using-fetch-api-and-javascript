@@ -1,0 +1,37 @@
+------------------------------MAIN
+Multi-Category Trivia Quiz
+------------------------------ 1 HEADER H1
+Select Category:
+Select Difficulty:
+------------------------------ 1 HEADER Menu (select Option) 
+Start
+Next Question
+------------------------------ 1 HEADER Nav H2 H2 span
+Question 1
+Question 
+------------------------------ 2 SECTION aside H3 H4
+A Apple
+B Ball
+C Cup
+D Dog
+------------------------------ 4 SECTION label ul <input type="radio">  
+(Congratulations/There's room for improvement) on your 
+Correct Answer Score 0/5
+
+Play again
+
+https://github.com/traez
+------------------------------ 3 FOOTER blockquote span-span i, H5 small
+
+------------------------------MAIN
+
+
+header footer
+menu ul button 
+label legend fieldset form
+option select
+b i small strong  
+blockquote span
+h1 - h6
+article section div main
+aside nav

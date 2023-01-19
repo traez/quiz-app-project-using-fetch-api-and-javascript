@@ -1,0 +1,36 @@
+General Knowledge Easy
+https://opentdb.com/api.php?amount=1&category=9&difficulty=easy&type=multiple
+
+General Knowledge Medium
+https://opentdb.com/api.php?amount=1&category=9&difficulty=medium&type=multiple
+
+General Knowledge Hard
+https://opentdb.com/api.php?amount=1&category=9&difficulty=hard&type=multiple
+
+Science and Nature Easy
+https://opentdb.com/api.php?amount=1&category=17&difficulty=easy&type=multiple
+
+Science and Nature Medium
+https://opentdb.com/api.php?amount=1&category=17&difficulty=medium&type=multiple
+
+Science and Nature Hard
+https://opentdb.com/api.php?amount=1&category=17&difficulty=hard&type=multiple
+
+Science Computers Easy
+https://opentdb.com/api.php?amount=1&category=18&difficulty=easy&type=multiple
+
+Science Computers Medium
+https://opentdb.com/api.php?amount=1&category=18&difficulty=medium&type=multiple
+
+Science Computers Hard
+https://opentdb.com/api.php?amount=1&category=18&difficulty=hard&type=multiple
+
+Animals Easy
+https://opentdb.com/api.php?amount=1&category=27&difficulty=easy&type=multiple
+
+Animals Medium
+https://opentdb.com/api.php?amount=1&category=27&difficulty=medium&type=multiple
+
+Animals Hard
+https://opentdb.com/api.php?amount=1&category=27&difficulty=hard&type=multiple
+

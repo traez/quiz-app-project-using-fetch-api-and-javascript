@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>Quiz App Project Using Fetch API and Javascript</title>
+<meta charSet="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-traedays.png">
+<link rel="stylesheet" type="text/css" href="styles.css"/>
+</head>
+<!-- 
+<button onclick="alert('Hello World 1')">Click Me now 1</button>
+-->
+<body>
+
+    <main>
+
+        <header>
+
+            <h1>Multi-Category Trivia Quiz</h1>
+
+            <menu>
+                <select id="category">
+                    <option value="">Select Category</option>
+                    <option value="9">General Knowledge</option>
+                    <option value="17">Science and Nature</option>
+                    <option value="18">Science Computers</option>
+                    <option value="27">Animals</option>
+                </select>
+
+                <select id="difficulty">
+                    <option value="">Select Difficulty</option>
+                    <option value="easy">Easy</option>
+                    <option value="medium">Medium</option>
+                    <option value="hard">Hard</option>
+                </select>
+            </menu>
+
+            <nav>
+                <button id="start" type="button">Start</button>
+                <button id="next" type="button" disabled>Next Question</button>
+            </nav>
+        </header>
+
+        <section>
+            <aside>
+                <h2>Question <span id="numba">1</span></h2>
+                <h3 id="question">The Nigerian flag is coloured Green - White and?</h3>
+            </aside>
+            
+            <ol type="A">
+                <li>
+                    <label>
+                        green
+                        <input id="aa" type="radio" name="quiz" value="peas"/>
+                    </label>
+                </li>
+                <li>
+                    <label>
+                        red
+                        <input id="bb" type="radio" name="quiz" value="bees"/>
+                    </label>
+                </li>
+                <li>
+                    <label>
+                        blue
+                        <input id="cc" type="radio" name="quiz" value="tees"/>
+                    </label>
+                </li>
+                <li>
+                    <label>
+                        white
+                        <input id="dd" type="radio" name="quiz" value="fees"/>
+                    </label>
+                </li>
+            </ol>
+            
+        </section>
+
+        <footer>
+            <h4 id="feedback">
+                First select Category and Difficulty level, then press Start
+            </h4>
+        
+                <button id="again" type="button" disabled>Play again</button>
+
+                <div id="github"><a href="https://github.com/traez/rock-paper-scissors-jsgame-theodinproject" target="_blank">https://github.com/traez</a></div>
+        </footer>
+
+    </main>  
+
+  <script src="script.js"></script>
+</body>
+
+</html>

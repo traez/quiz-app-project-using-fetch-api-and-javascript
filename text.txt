@@ -1,0 +1,5 @@
+feedback.style.color = "red";
+
+modify above code to make font size larger instead
+
+e.target.parentElement.parentElement.style.backgroundColor = "red";
